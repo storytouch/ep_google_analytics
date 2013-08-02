@@ -9,6 +9,10 @@
   },
   "contributors": [],
   "dependencies": {},
+  "repository" : {
+    "type" : "git",
+    "url"  : "https://github.com/JohnMcLear/ep_google_analytics"
+  },
   "_id": "ep_googleanalytics@0.0.7",
   "dist": {
     "shasum": "a6fa43074f12b65e975752151f08e170f573df21"
