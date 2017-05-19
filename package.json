@@ -7,7 +7,12 @@
     "email": "john@mclear.co.uk",
     "url": "http://mclear.co.uk"
   },
-  "contributors": [],
+  "contributors": [
+    {
+      "name": "Luiza Pagliari",
+      "email": "lpagliari@gmail.com"
+    }
+  ],
   "dependencies": {},
   "repository" : {
     "type" : "git",
@@ -18,5 +23,4 @@
     "shasum": "a6fa43074f12b65e975752151f08e170f573df21"
   },
   "_from": "ep_googleanalytics",
-  "readme": "ERROR: No README.md file found!"
 }
