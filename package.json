@@ -1,13 +1,18 @@
 {
   "name": "ep_googleanalytics",
-  "description": "Add Google Analytics to Etherpad Lite -- IMPORTANT: Add the following to your settings.json file --   \"ep_googleanalytics\":{\"gaCode\":\"UA-2387498\"}",
+  "description": "Add Google Analytics to Etherpad Lite -- IMPORTANT: Add the following to your settings.json file -- \"ep_googleanalytics\":{\"trackingCode\":\"UA-2387498\"} (for the up-to-date analytics.js) or \"ep_googleanalytics\":{\"gaCode\":\"UA-2387498\"} (for the legacy ga.js)",
   "version": "0.0.7",
   "author": {
     "name": "John McLear",
     "email": "john@mclear.co.uk",
     "url": "http://mclear.co.uk"
   },
-  "contributors": [],
+  "contributors": [
+    {
+      "name": "Luiza Pagliari",
+      "email": "lpagliari@gmail.com"
+    }
+  ],
   "dependencies": {},
   "repository" : {
     "type" : "git",
@@ -17,6 +22,5 @@
   "dist": {
     "shasum": "a6fa43074f12b65e975752151f08e170f573df21"
   },
-  "_from": "ep_googleanalytics",
-  "readme": "ERROR: No README.md file found!"
+  "_from": "ep_googleanalytics"
 }
