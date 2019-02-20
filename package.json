@@ -14,9 +14,9 @@
     }
   ],
   "dependencies": {},
-  "repository" : {
-    "type" : "git",
-    "url"  : "https://github.com/JohnMcLear/ep_google_analytics"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnMcLear/ep_google_analytics"
   },
   "_id": "ep_googleanalytics@0.0.7",
   "dist": {
